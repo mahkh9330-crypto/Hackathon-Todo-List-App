@@ -82,7 +82,6 @@ Example: forgot to pass tasks and next_id to save_tasks()
 Helped me build proper menu loop logic, Suggested user-friendly error handling for invalid inputs
 
 Project Structure:
-todo-cli/
 ├── main.py        
 ├── storage.py     
 ├── tasks.json     
