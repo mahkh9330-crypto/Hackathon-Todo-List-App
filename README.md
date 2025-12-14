@@ -43,8 +43,7 @@ You can:
    - Tasks are saved in `tasks.json`  
    - Automatically loaded on program start
 
-7. Better User Interface (UI) 
-   - Emojis for Done / Not Done tasks  
+7. Better User Interface (UI)
    - Friendly messages and readable timestamps  
    - Clean menu for easy navigation
 
@@ -100,7 +99,8 @@ Python (for building the app).
 JSON module (for storing tasks).
 Gemini CLI (for assistance with logic, debugging, and suggestions).
 
-Lessons Learned
+Lessons Learned: 
+
 Learned how to use Python dictionaries and lists to manage complex data.
 Learned persistent storage with JSON.
 Understood how to structure a Python project.
@@ -108,6 +108,7 @@ Learned how to debug common mistakes with the help of Gemini CLI.
 Practiced clean code and readable CLI design.
 
 How Gemini CLI Helped:
+
 Generated starter code for menu loop
 Checked logic in add_task, update_task, and delete_task functions
 Suggested error handling improvements
